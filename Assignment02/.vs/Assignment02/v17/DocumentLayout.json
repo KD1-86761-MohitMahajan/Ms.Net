@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\Personal_GITData\\MsDotNet\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88E252-9A60-4D51-A177-8AF96B38A5BF}|Assignment02.csproj|d:\\cdac\\personal_gitdata\\msdotnet\\assignment02\\a2q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88E252-9A60-4D51-A177-8AF96B38A5BF}|Assignment02.csproj|solutionrelative:a2q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88E252-9A60-4D51-A177-8AF96B38A5BF}|Assignment02.csproj|d:\\cdac\\personal_gitdata\\msdotnet\\assignment02\\a2q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88E252-9A60-4D51-A177-8AF96B38A5BF}|Assignment02.csproj|solutionrelative:a2q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A2Q2.cs",
+              "DocumentMoniker": "D:\\CDAC\\Personal_GITData\\MsDotNet\\Assignment02\\A2Q2.cs",
+              "RelativeDocumentMoniker": "A2Q2.cs",
+              "ToolTip": "D:\\CDAC\\Personal_GITData\\MsDotNet\\Assignment02\\A2Q2.cs",
+              "RelativeToolTip": "A2Q2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:12:26.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A2Q1.cs",
+              "DocumentMoniker": "D:\\CDAC\\Personal_GITData\\MsDotNet\\Assignment02\\A2Q1.cs",
+              "RelativeDocumentMoniker": "A2Q1.cs",
+              "ToolTip": "D:\\CDAC\\Personal_GITData\\MsDotNet\\Assignment02\\A2Q1.cs",
+              "RelativeToolTip": "A2Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:12:24.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
